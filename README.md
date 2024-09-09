@@ -1,6 +1,6 @@
 
 ## Desafios
-Desafios de projetos em Python da Dio.me
+Desafios de projetos em Python da DIO
 
 🏆 Desafios
 |Desafio|Descrição|
