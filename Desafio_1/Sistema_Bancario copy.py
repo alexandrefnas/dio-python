@@ -92,7 +92,7 @@ while True:
         print("──────────────────────────────────")
         print(f" Saldo atual:    R$ {saldo:.2f}")
         print("══════════════════════════════════")
-        input(retorno)
+        
     elif opcao == "q":
         print("\n Obrigado por usar os nossos servíços!")
         input()
